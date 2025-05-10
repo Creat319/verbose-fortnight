@@ -1,0 +1,6 @@
+[2025-05-05 18:04:20]:
+IP地址：120.231.109.90
+请求地址：【GET】 -> http://ofan.cn/admin/config/email?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=e3hghua394nlkendoqacvicnnd","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://ofan.cn/admin/config/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"ofan.cn","Content-Length":""}
+----------------------------------------

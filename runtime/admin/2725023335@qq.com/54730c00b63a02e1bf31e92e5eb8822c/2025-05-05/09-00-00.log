@@ -1,0 +1,720 @@
+[2025-05-05 09:29:52]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/dashboard/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/authentication/login","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:29:54]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/app/ad
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:29:54]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/dashboard/weekStatistics
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:29:54]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dashboard/data
+POST数据：{"type":"0"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"6","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:29:56]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:29:57]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:30:00]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/dashboard/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/authentication/login","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Upgrade-Insecure-Requests":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:30:01]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/app/ad
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:30:01]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dashboard/data
+POST数据：{"type":"0"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"6","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:30:02]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/dashboard/weekStatistics
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:30:02]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:30:02]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:30:32]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dashboard/data
+POST数据：{"type":"4"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"6","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:32:01]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/cash/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:32:02]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/cash/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/cash/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:32:06]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/user/businessLevel?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/cash/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:32:07]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/businessLevel/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/businessLevel","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:32:09]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/user/group?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/businessLevel","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:32:10]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/group/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/group","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:32:13]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/user/bill?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/group","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:32:14]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/bill/data
+POST数据：{"offset":"0","limit":"19","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/bill","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:33:02]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/bill/data
+POST数据：{"offset":"0","limit":"19","page":"1","equal-owner":"1001"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/bill","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"41","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:33:11]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/user/businessLevel?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/bill","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:33:12]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/businessLevel/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/businessLevel","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:33:16]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/config/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/businessLevel","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:33:20]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/manage/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/config/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:33:21]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/manage/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/manage/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:33:25]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/plugin/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/manage/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:33:25]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/plugin/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/plugin/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"8","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:33:29]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/log/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/plugin/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:33:30]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/log/data
+POST数据：{"offset":"0","limit":"19","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/log/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:34:00]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/plugin/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/log/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:34:01]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/plugin/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/plugin/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"8","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:34:02]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/manage/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/plugin/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:34:03]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/manage/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/manage/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:34:07]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/config/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/manage/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:34:11]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/manage/set?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/config/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:34:19]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/order/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/manage/set","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:34:19]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/order/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/order/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:34:19]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"pay,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/order/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"30","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:34:52]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/plugin/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/order/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:34:53]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/plugin/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/plugin/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"8","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:34:54]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/store/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/plugin/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:34:55]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/store/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/store/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:34:57]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/config/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/store/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:34:59]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/coupon/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/config/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:34:59]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/coupon/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/coupon/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:34:59]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"commodity,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/coupon/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"36","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:35:01]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/coupon/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/coupon/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:35:02]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"commodity,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/coupon/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"36","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:35:02]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/coupon/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/coupon/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:35:03]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/card/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/coupon/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:35:04]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"commodity->owner=0 and delivery_way=0 and (shared_id is null or shared_id=0),id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/card/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"111","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:35:04]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/card/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/card/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:35:14]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/card/data
+POST数据：{"offset":"15","limit":"15","page":"2"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/card/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"25","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:35:18]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/card/data
+POST数据：{"offset":"30","limit":"15","page":"3"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/card/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"25","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:35:34]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/commodity/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/card/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:35:35]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/commodity/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:35:35]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"category,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"35","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:35:35]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"shared,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"33","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:36:30]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/commodity/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:36:31]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"category,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"35","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:36:31]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"shared,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"33","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:36:31]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/commodity/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:36:35]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/cash/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:36:35]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/cash/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/cash/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:36:43]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/user/businessLevel?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/cash/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:36:44]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/businessLevel/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/businessLevel","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:36:53]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/user/group?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/businessLevel","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:36:53]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/group/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/group","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:36:55]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/user/bill?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/group","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:36:55]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/bill/data
+POST数据：{"offset":"0","limit":"19","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/bill","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:37:07]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/recharge/order?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/bill","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:37:08]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/rechargeOrder/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/recharge/order","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:37:08]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"pay->id!=1,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/recharge/order","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"41","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:37:13]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/rechargeOrder/data
+POST数据：{"offset":"0","limit":"13","page":"1","equal-user_id":"1000"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/recharge/order","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"43","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:37:48]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/user/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/recharge/order","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:37:49]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/user/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:38:26]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"user_group,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"37","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:38:26]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"business_level,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"41","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:38:45]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"business_level,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"41","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:38:45]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"user_group,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"37","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:38:56]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"business_level,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"41","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:38:56]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"user_group,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"37","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:39:31]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/user/save
+POST数据：{"avatar":"/favicon.ico","username":"admin1","group_id":"6","email":"2725023335@qq.com","phone":"","qq":"2725023335","password":"ldm110114","pid":"0","business_level":"4","status":"1","id":"1001"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"154","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:39:32]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/user/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:39:56]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/user/recharge
+POST数据：{"action":"1","amount":"900","log":"服务器补偿","total":"1","id":"1001"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"85","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:39:57]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/user/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/user/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:43:49]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/dashboard/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/authentication/login","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:43:50]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/app/ad
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=255","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:43:50]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dashboard/data
+POST数据：{"type":"0"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"6","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:43:51]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/dashboard/weekStatistics
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:43:51]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:43:51]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Connection":"keep-alive","Host":"uchat.cn","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:43:54]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/manage/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/dashboard/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:43:55]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/manage/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/manage/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:43:57]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/plugin/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/manage/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:43:58]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/plugin/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/plugin/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"8","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:43:59]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/pay/plugin?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/plugin/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:43:59]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/pay/plugin","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"8","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:02]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/pay/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:44:02]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/pay/getPlugins
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/pay/index","Origin":"http://uchat.cn","X-Requested-With":"XMLHttpRequest","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","Content-Length":"0","Connection":"keep-alive","Host":"uchat.cn","Content-Type":""}
+----------------------------------------
+[2025-05-05 09:44:03]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/pay/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/pay/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:10]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/card/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/pay/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:44:11]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"commodity->owner=0 and delivery_way=0 and (shared_id is null or shared_id=0),id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/card/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"111","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:11]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/card/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/card/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:14]:
+IP地址：18.162.169.133
+请求地址：【GET】 -> http://uchat.cn/admin/commodity/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/card/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"text/html, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","X-Pjax":"true","X-Pjax-Container":"#pjax-container","Connection":"keep-alive","Host":"uchat.cn","Content-Length":""}
+----------------------------------------
+[2025-05-05 09:44:15]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"category,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"35","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:15]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"shared,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"33","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:15]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/commodity/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:23]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"shared,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"33","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:23]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"category->owner=0,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"48","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:24]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/group/data
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"8","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:37]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/commodity/save
+POST数据：{"cover":"/favicon.ico","name":"ARM天卡","description":"<p>arm卡密弹窗，包更新，包售后。</p><p>-功能解析</p><p>|============================|</p><p>[%2B]注入卡密/公告等弹窗</p><p>[%2B]给你的APP加固</p><p>[%2B]给你的APP加密</p><p>[%2B]防截图</p><p>[%2B]防抓包</p><p>...更多功能请下载APP查看</p><p>|============================|</p>","category_id":"1","factory_price":"30","price":"999","user_price":"999","level_disable":"0","hide":"0","recommend":"1","level_price":"","shared_id":"","shared_code":"","shared_premium_type":"0","shared_premium":"0","shared_sync":"0","inventory_sync":"0","delivery_way":"0","delivery_auto_mode":"2","delivery_message":"","leave_message":"如有问题请联系QQ:196749304","contact_type":"2","send_email":"1","password_status":"1","sort":"1","minimum":"1","maximum":"1","coupon":"1","seckill_status":"1","seckill_start_time":"2025-05-05 00:00:00","seckill_end_time":"2025-05-06 00:00:00","draft_status":"0","draft_premium":"0","only_user":"0","purchase_count":"0","api_status":"1","inventory_hidden":"1","config":"","status":"1","id":"1","widget":"%5B%5D"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"1602","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:44:37]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/commodity/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:45:41]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"category->owner=0,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"48","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:45:41]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/dict/get
+POST数据：{"dict":"shared,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"33","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:45:41]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/group/data
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"8","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:45:46]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/commodity/save
+POST数据：{"cover":"/favicon.ico","name":"ARM天卡","description":"<p>arm卡密弹窗，包更新，包售后。</p><p>-功能解析</p><p>|============================|</p><p>[%2B]注入卡密/公告等弹窗</p><p>[%2B]给你的APP加固</p><p>[%2B]给你的APP加密</p><p>[%2B]防截图</p><p>[%2B]防抓包</p><p>...更多功能请下载APP查看</p><p>|============================|</p>","category_id":"1","factory_price":"30","price":"1","user_price":"1","level_disable":"0","hide":"0","recommend":"1","level_price":"","shared_id":"","shared_code":"","shared_premium_type":"0","shared_premium":"0","shared_sync":"0","inventory_sync":"0","delivery_way":"0","delivery_auto_mode":"2","delivery_message":"","leave_message":"如有问题请联系QQ:196749304","contact_type":"2","send_email":"1","password_status":"1","sort":"1","minimum":"1","maximum":"1","coupon":"1","seckill_status":"1","seckill_start_time":"2025-05-05 00:00:00","seckill_end_time":"2025-05-06 00:00:00","draft_status":"0","draft_premium":"0","only_user":"0","purchase_count":"0","api_status":"1","inventory_hidden":"1","config":"","status":"1","id":"1","widget":"%5B%5D"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"1598","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
+[2025-05-05 09:45:47]:
+IP地址：18.162.169.133
+请求地址：【POST】 -> http://uchat.cn/admin/api/commodity/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=fb612j46698vunf29h516ld65i; kt_aside_menu_wrapperst=180","Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6","Accept-Encoding":"gzip, deflate","Referer":"http://uchat.cn/admin/commodity/index","Origin":"http://uchat.cn","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","X-Requested-With":"XMLHttpRequest","Content-Length":"24","Connection":"keep-alive","Host":"uchat.cn"}
+----------------------------------------
